@@ -220,7 +220,7 @@ function Home() {
               <i className="bi bi-headset"></i>
               <h3>24/7 Support</h3>
               <p>
-                Our support team is here to help you anytime, anywhere.
+                Our support team is here to help you anytime, anywhere..
               </p>
             </div>
 
